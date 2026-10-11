@@ -1,0 +1,19 @@
+# Arquivos gerados no build local
+/Support/*
+!/Support/TheIsleClient-Win64-Shipping.exe
+/dist/
+/test-build/
+/build/
+
+# Relatórios e arquivos locais
+/build_native_report.json
+/verification.json
+*.log
+*.pfx
+*.p12
+*.key
+*.pem
+*.exe
+!/Support/TheIsleClient-Win64-Shipping.exe
+*.pak
+*.sig
